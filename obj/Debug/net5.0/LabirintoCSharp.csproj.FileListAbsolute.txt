@@ -1,0 +1,16 @@
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.exe
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.deps.json
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.runtimeconfig.json
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.runtimeconfig.dev.json
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.dll
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.pdb
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.AssemblyInfo.cs
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.sourcelink.json
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.dll
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\obj\Debug\net5.0\refint\LabirintoCSharp.dll
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.pdb
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.genruntimeconfig.cache
+C:\Users\lucas\Documents\EstruturaDeDadosI\LabirintoCSharp\LabirintoCSharp\obj\Debug\net5.0\ref\LabirintoCSharp.dll
